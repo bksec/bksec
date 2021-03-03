@@ -1,4 +1,4 @@
-##  <img src="https://thumbnail.imgbin.com/7/21/9/imgbin-balloon-computer-icons-black-balloon-Yis3RPCG1bJXBZfKdj3pEURDV_t.jpg" style="width:100%"/>
+##  <img src="https://thumbnail.imgbin.com/7/21/9/imgbin-balloon-computer-icons-black-balloon-Yis3RPCG1bJXBZfKdj3pEURDV_t.jpg" style="width:10%"/>
 <div align="center">
 <img src="https://downloadhdwallpapers.in/wp-content/uploads/2018/09/Dark-Forest-Tree-Animated-Gif-Hot.gif" align="center" style="width: 100%" />
 </div>  
