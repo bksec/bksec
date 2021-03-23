@@ -7,13 +7,6 @@
 <br/>  
 
 
-<br/>  
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=aauqowciil8f9ae4w3mu4f8dt&cover_image=true&theme=default" /></div>  
-
-<br/>  
-
-  
 
 <br/>  
 
